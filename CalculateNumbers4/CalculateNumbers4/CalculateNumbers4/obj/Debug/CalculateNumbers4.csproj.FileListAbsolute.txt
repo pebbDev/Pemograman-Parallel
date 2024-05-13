@@ -1,0 +1,11 @@
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\bin\Debug\CalculateNumbers4.exe.config
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\bin\Debug\CalculateNumbers4.exe
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\bin\Debug\CalculateNumbers4.pdb
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.csproj.AssemblyReference.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.Form1.resources
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.Properties.Resources.resources
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.csproj.GenerateResource.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.csproj.CoreCompileInputs.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.exe
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers4\CalculateNumbers4\CalculateNumbers4\obj\Debug\CalculateNumbers4.pdb

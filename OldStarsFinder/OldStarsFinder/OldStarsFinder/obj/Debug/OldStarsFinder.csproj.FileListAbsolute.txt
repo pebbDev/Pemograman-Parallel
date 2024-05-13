@@ -1,0 +1,11 @@
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\bin\Debug\OldStarsFinder.exe.config
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\bin\Debug\OldStarsFinder.exe
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\bin\Debug\OldStarsFinder.pdb
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.csproj.AssemblyReference.cache
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.Form1.resources
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.Properties.Resources.resources
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.csproj.GenerateResource.cache
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.csproj.CoreCompileInputs.cache
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.exe
+C:\Users\Febri\Downloads\Paralel\OldStarsFinder\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.pdb

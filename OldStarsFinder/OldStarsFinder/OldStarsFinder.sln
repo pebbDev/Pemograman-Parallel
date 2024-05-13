@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldStarsFinder", "OldStarsFinder\OldStarsFinder.csproj", "{8ED9E303-99E4-4727-986D-8B402477C145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED9E303-99E4-4727-986D-8B402477C145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED9E303-99E4-4727-986D-8B402477C145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED9E303-99E4-4727-986D-8B402477C145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED9E303-99E4-4727-986D-8B402477C145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97F0002-81E6-4ABC-AB41-FA88A860F68B}
+	EndGlobalSection
+EndGlobal

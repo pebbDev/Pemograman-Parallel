@@ -1,0 +1,11 @@
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\bin\Debug\ParallelMath1.exe.config
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\bin\Debug\ParallelMath1.exe
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\bin\Debug\ParallelMath1.pdb
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.csproj.AssemblyReference.cache
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.Form1.resources
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.Properties.Resources.resources
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.csproj.GenerateResource.cache
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.csproj.CoreCompileInputs.cache
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.exe
+C:\Users\Febri\Downloads\Paralel\ParallelMath1\ParallelMath1\ParallelMath1\obj\Debug\ParallelMath1.pdb

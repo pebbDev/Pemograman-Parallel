@@ -1,0 +1,11 @@
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\bin\Debug\CalculateNumbers3.exe.config
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\bin\Debug\CalculateNumbers3.exe
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\bin\Debug\CalculateNumbers3.pdb
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.csproj.AssemblyReference.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.Form1.resources
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.Properties.Resources.resources
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.csproj.GenerateResource.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.csproj.CoreCompileInputs.cache
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.exe
+C:\Users\Febri\Downloads\Paralel\CalculateNumbers3\CalculateNumbers3\CalculateNumbers3\obj\Debug\CalculateNumbers3.pdb
